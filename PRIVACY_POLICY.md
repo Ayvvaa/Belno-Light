@@ -1,3 +1,5 @@
+Last Updated: June 2026
+
 1. Information We Collect
 
 Belno Light may process and store the following information in order to provide its functionality:
