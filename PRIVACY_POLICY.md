@@ -87,4 +87,4 @@ Continued use of Belno Light after changes are published constitutes acceptance 
 
 If you have questions regarding this Privacy Policy or Belno Light's data handling practices, you may contact the developer:
 
-- Discord: `ayva.`
+- Discord: `._ayva_.`
